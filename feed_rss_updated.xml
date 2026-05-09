@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="rss.xsl"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    
+    <title>阿明</title>
+    <description>技术、编程与生活的个人博客</description>
+    <link>https://zhumingjun1.github.io/Web/</link>
+    <atom:link href="https://zhumingjun1.github.io/Web/feed_rss_updated.xml" rel="self" type="application/rss+xml" />
+
+    
+    <managingEditor>阿明</managingEditor>
+    
+    <language>zh</language>
+
+    
+    <pubDate>Sat, 09 May 2026 07:08:37 -0000</pubDate>
+    <lastBuildDate>Sat, 09 May 2026 07:08:37 -0000</lastBuildDate>
+    <ttl>1440</ttl>
+
+    
+    <generator>MkDocs RSS plugin - v1.19.0</generator>
+
+    
+    
+    <image>
+      <url>None</url>
+      <title>阿明</title>
+      <link>https://zhumingjun1.github.io/Web/</link>
+    </image>
+    
+
+    
+    
+    <item>
+      <title>用 MkDocs 和 GitHub Pages 搭建博客</title>
+      
+      
+        
+      <author>阿明</author>
+        
+      
+      
+      
+        
+      <category>github-pages</category>
+        
+      <category>mkdocs</category>
+        
+      <category>web</category>
+        
+      <category>技术</category>
+        
+      <category>教程</category>
+        
+      
+      <description>&lt;h1&gt;用 MkDocs 和 GitHub Pages 搭建博客&lt;/h1&gt;
+&lt;p&gt;一份创建类似本博客的静态博客的分步指南。&lt;/p&gt;</description>
+      <link>https://zhumingjun1.github.io/Web/blog/2026/05/05/building-blog-with-mkdocs/</link>
+      <pubDate>Sat, 09 May 2026 07:08:37 +0000</pubDate>
+      <source url="https://zhumingjun1.github.io/Web/feed_rss_updated.xml">阿明</source>
+      
+      <guid isPermaLink="true">https://zhumingjun1.github.io/Web/blog/2026/05/05/building-blog-with-mkdocs/</guid>
+      
+    </item>
+    
+    <item>
+      <title>每个开发者都应该知道的 5 个 Python 技巧</title>
+      
+      
+        
+      <author>阿明</author>
+        
+      
+      
+      
+        
+      <category>python</category>
+        
+      <category>python</category>
+        
+      <category>技巧</category>
+        
+      
+      <description>&lt;h1&gt;每个开发者都应该知道的 5 个 Python 技巧&lt;/h1&gt;
+&lt;p&gt;以下是五个能让你的代码更简洁、更高效的 Python 技巧。&lt;/p&gt;</description>
+      <link>https://zhumingjun1.github.io/Web/blog/2026/04/25/python-tips/</link>
+      <pubDate>Sat, 09 May 2026 07:08:37 +0000</pubDate>
+      <source url="https://zhumingjun1.github.io/Web/feed_rss_updated.xml">阿明</source>
+      
+      <guid isPermaLink="true">https://zhumingjun1.github.io/Web/blog/2026/04/25/python-tips/</guid>
+      
+    </item>
+    
+    <item>
+      <title>你好世界：我的博客上线啦</title>
+      
+      
+        
+      <author>阿明</author>
+        
+      
+      
+      
+        
+      <category>markdown</category>
+        
+      <category>mkdocs</category>
+        
+      <category>技术</category>
+        
+      <category>静态网站</category>
+        
+      
+      <description>&lt;h1&gt;你好世界：我的博客上线啦&lt;/h1&gt;
+&lt;p&gt;欢迎来到我的新博客！这是我使用 MkDocs 和 Material 主题搭建的第一篇文章。&lt;/p&gt;</description>
+      <link>https://zhumingjun1.github.io/Web/blog/2026/04/15/hello-world/</link>
+      <pubDate>Sat, 09 May 2026 07:08:37 +0000</pubDate>
+      <source url="https://zhumingjun1.github.io/Web/feed_rss_updated.xml">阿明</source>
+      
+      <guid isPermaLink="true">https://zhumingjun1.github.io/Web/blog/2026/04/15/hello-world/</guid>
+      
+    </item>
+    
+  </channel>
+</rss>

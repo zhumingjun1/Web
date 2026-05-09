@@ -1,0 +1,76 @@
+{
+    "version": "https://jsonfeed.org/version/1.1",
+    "title": "\u963f\u660e",
+    "home_page_url": "https://zhumingjun1.github.io/Web/",
+    "feed_url": "https://zhumingjun1.github.io/Web/feed_json_updated.json",
+    "description": "\u6280\u672f\u3001\u7f16\u7a0b\u4e0e\u751f\u6d3b\u7684\u4e2a\u4eba\u535a\u5ba2",
+    "icon": null,
+    "authors": [
+        {
+            "name": "\u963f\u660e"
+        }
+    ],
+    "language": "zh",
+    "items": [
+        {
+            "id": "https://zhumingjun1.github.io/Web/blog/2026/05/05/building-blog-with-mkdocs/",
+            "url": "https://zhumingjun1.github.io/Web/blog/2026/05/05/building-blog-with-mkdocs/",
+            "title": "\u7528 MkDocs \u548c GitHub Pages \u642d\u5efa\u535a\u5ba2",
+            "content_html": "<h1>\u7528 MkDocs \u548c GitHub Pages \u642d\u5efa\u535a\u5ba2</h1>\n<p>\u4e00\u4efd\u521b\u5efa\u7c7b\u4f3c\u672c\u535a\u5ba2\u7684\u9759\u6001\u535a\u5ba2\u7684\u5206\u6b65\u6307\u5357\u3002</p>",
+            "image": null,
+            "date_modified": "2026-05-09T07:08:37.319478+00:00",
+            "date_published": "2026-05-05T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": "\u963f\u660e"
+                }
+            ],
+            "tags": [
+                "github-pages",
+                "mkdocs",
+                "web",
+                "\u6280\u672f",
+                "\u6559\u7a0b"
+            ]
+        },
+        {
+            "id": "https://zhumingjun1.github.io/Web/blog/2026/04/25/python-tips/",
+            "url": "https://zhumingjun1.github.io/Web/blog/2026/04/25/python-tips/",
+            "title": "\u6bcf\u4e2a\u5f00\u53d1\u8005\u90fd\u5e94\u8be5\u77e5\u9053\u7684 5 \u4e2a Python \u6280\u5de7",
+            "content_html": "<h1>\u6bcf\u4e2a\u5f00\u53d1\u8005\u90fd\u5e94\u8be5\u77e5\u9053\u7684 5 \u4e2a Python \u6280\u5de7</h1>\n<p>\u4ee5\u4e0b\u662f\u4e94\u4e2a\u80fd\u8ba9\u4f60\u7684\u4ee3\u7801\u66f4\u7b80\u6d01\u3001\u66f4\u9ad8\u6548\u7684 Python \u6280\u5de7\u3002</p>",
+            "image": null,
+            "date_modified": "2026-05-09T07:08:37.306900+00:00",
+            "date_published": "2026-04-25T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": "\u963f\u660e"
+                }
+            ],
+            "tags": [
+                "python",
+                "python",
+                "\u6280\u5de7"
+            ]
+        },
+        {
+            "id": "https://zhumingjun1.github.io/Web/blog/2026/04/15/hello-world/",
+            "url": "https://zhumingjun1.github.io/Web/blog/2026/04/15/hello-world/",
+            "title": "\u4f60\u597d\u4e16\u754c\uff1a\u6211\u7684\u535a\u5ba2\u4e0a\u7ebf\u5566",
+            "content_html": "<h1>\u4f60\u597d\u4e16\u754c\uff1a\u6211\u7684\u535a\u5ba2\u4e0a\u7ebf\u5566</h1>\n<p>\u6b22\u8fce\u6765\u5230\u6211\u7684\u65b0\u535a\u5ba2\uff01\u8fd9\u662f\u6211\u4f7f\u7528 MkDocs \u548c Material \u4e3b\u9898\u642d\u5efa\u7684\u7b2c\u4e00\u7bc7\u6587\u7ae0\u3002</p>",
+            "image": null,
+            "date_modified": "2026-05-09T07:08:37.270635+00:00",
+            "date_published": "2026-04-15T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": "\u963f\u660e"
+                }
+            ],
+            "tags": [
+                "markdown",
+                "mkdocs",
+                "\u6280\u672f",
+                "\u9759\u6001\u7f51\u7ad9"
+            ]
+        }
+    ]
+}
